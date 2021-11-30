@@ -1,0 +1,8 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  background-size: cover;
+  height: calc(100vh - 80px);
+  align-content: flex-start;
+  position: center;
+}

@@ -1,0 +1,10 @@
+Footer,
+Header {
+  color: #320e3b;
+  text-transform: uppercase;
+  font-weight: 700;
+  height: 40px;
+  background-color: #bcedf6;
+  display: flex;
+  align-items: center;
+}
